@@ -24207,6 +24207,17 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
+        },
+		{
+            "author": "xLegende",
+            "title": "ComfyUI-Prompt-Formatter",
+            "id": "comfyui-prompt-formatter",
+            "reference": "https://github.com/xLegende/ComfyUI-Prompt-Formatter",
+            "files": [
+                "https://github.com/xLegende/ComfyUI-Prompt-Formatter"
+            ],
+            "install_type": "git-clone",
+            "description": "This repository contains custom nodes for ComfyUI designed to help structure, filter, and generate text prompts using categorized tag definitions stored in a YAML file."
         }
     ]
 }
